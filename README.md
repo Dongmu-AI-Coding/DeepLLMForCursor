@@ -1,1 +1,1 @@
-# DeepClaudeForCursor
+# DeepLLM
